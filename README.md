@@ -18,17 +18,17 @@
 ## 🚀 About Me
 
 ```js
-const profile = {
-  name: "JobLessGod",
+const User = {
+  fullName: "Sanchit Bishwakarma",
   role: "Web Developer",
   location: "Nepal 🇳🇵",
   experience: "Web Developer since 2023",
   currentFocus: "building an industry level product",
   currentlyWorkingOn: "industry level e-commerce",
-  learning: ["DevOps", "A.React", "A.Nodejs"],
+  learning: ["DevOps", "Advance. React", "Advance. Nodejs"],
   lookingFor: "Virtual Machine",
   seekingHelp: "find free virtual machine",
-  contact: "iamjoblessgod@gmail.com",
+  contact: "sanchitbishwakarma91@gmail.com",
 };
 ```
 
