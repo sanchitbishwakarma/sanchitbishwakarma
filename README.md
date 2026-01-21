@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="banner_github.png" alt="GitHub Banner" width="100%" />
-</div>
+</div> -->
 
 <!--<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello+Sir+%F0%9F%91%8B;I'm+JobLessGod;IT+Student+%26+Software+Engineer;From+Nepal+%F0%9F%87%B3%F0%9F%87%B5" alt="Typing SVG" />
@@ -68,6 +68,8 @@ const profile = {
 
 </div>
 
+<!--
+
 ## 🔥 Fire Contributions:
 
 |                                                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                             |
@@ -77,6 +79,7 @@ const profile = {
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JobLessGod&theme=vitesse&hide_border=true&border_radius=5.1&date_format=j%20M%5B%20Y%5D&card_width=810&card_height=208&fire=EB5454&currStreakNum=EBA203&background=45%2C1B3325A6%2C1D222CD4)](https://github.com/joblessgod)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JobLessGod&theme=tokyo-night)
+-->
 
 
 <div align="center">
