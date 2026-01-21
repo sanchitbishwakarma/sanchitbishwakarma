@@ -8,9 +8,9 @@
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/JobLessGod?color=58A6FF&logo=GitHub&style=for-the-badge&logoColor=white)](https://github.com/JobLessGod?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/sanchitbishwakarma?color=58A6FF&logo=GitHub&style=for-the-badge&logoColor=white)](https://github.com/sanchitbishwakarma?tab=followers)
 [![Profile views](https://komarev.com/ghpvc/?username=JobLessGod&label=Profile%20views&color=58A6FF&style=for-the-badge)](https://github.com/JobLessGod)
-[![GitHub stars](https://img.shields.io/github/stars/JobLessGod?color=58A6FF&logo=github&style=for-the-badge)](https://github.com/JobLessGod)
+[![GitHub stars](https://img.shields.io/github/stars/sanchitbishwakarma?color=58A6FF&logo=github&style=for-the-badge)](https://github.com/sanchitbishwakarma)
 [![Total Code Time](https://img.shields.io/endpoint?url=https://wakatime-badge-gamma.vercel.app/api/wakatime-badge&style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@joblessgod)
 
 </div>
