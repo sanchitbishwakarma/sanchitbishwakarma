@@ -28,7 +28,7 @@ const Profile = {
   lookingFor: "Coding Partner",
   seekingHelp: "Listen what I do",
   canHelpYou: "Listen what you have done",
-  contact: "business@sanchitbishwakarma.com.np",
+  contact: "sanchitbishwakarma91@gmail.com",
 };
 ```
 
