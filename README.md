@@ -50,6 +50,7 @@ const Profile = {
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sanchitbishwakarma&theme=github_dark&animation=sequence&utcOffset=5.45)
 
 
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" />
   
   **Thanks for visiting my profile! Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" alt="🌟" height=25px width=25px> some repositories.**
