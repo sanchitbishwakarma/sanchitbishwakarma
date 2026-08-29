@@ -38,22 +38,21 @@ const Profile = {
 
 ## 🔥 Fire Contributions:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sanchitbishwakarma&theme=github_dark&hide_border=true&border_radius=5.1&date_format=j%20M%5B%20Y%5D&card_width=810&card_height=208&fire=EB5454&currStreakNum=EBA203&background=45%2C1B3325A6%2C1D222CD4)](https://github.com/joblessgod)
-
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sanchitbishwakarma&theme=github_dark&hide_border=true&border_radius=5.1&date_format=j%20M%5B%20Y%5D&card_width=810&card_height=208&fire=EB5454&currStreakNum=EBA203&background=45%2C1B3325A6%2C1D222CD4)
+  
 <!-- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanchitbishwakarma&theme=tokyo-night) -->
 
-
+<!--
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanchitbishwakarma&theme=github_dark&animation=sequence&name=Sanchit+Bishwakarma)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanchitbishwakarma&theme=github_dark&animation=sequence)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sanchitbishwakarma&theme=github_dark&animation=sequence)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanchitbishwakarma&theme=github_dark&animation=sequence)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sanchitbishwakarma&theme=github_dark&animation=sequence&utcOffset=5.45)
+-->
 
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" />
   
-  **Thanks for visiting my profile! Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" alt="🌟" height=25px width=25px> some repositories.**
-  
+  Thanks for visiting my profile! Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" alt="🌟" height=25px width=25px> some [repositories](https://github.com/sanchitbishwakarma?tab=repositories).
   ![Made with ❤️ in Nepal](https://img.shields.io/badge/Made%20with%20❤️%20in-Nepal-orange?style=for-the-badge)
 </div>
